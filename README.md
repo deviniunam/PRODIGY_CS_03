@@ -11,6 +11,6 @@ This Python script provides a simple command-line interface for checking passwor
 **Usage:**
 1. Run the Python script.
 2. Select an option from the menu:
-   Check Password Strength
-   Generate Password
-   Exit
+   - Check Password Strength
+   - Generate Password
+   - Exit
